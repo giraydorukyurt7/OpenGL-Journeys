@@ -1,0 +1,6 @@
+﻿Build started...
+1>------ Build started: Project: OpenGLtestleri, Configuration: Debug Win32 ------
+1>main.cpp
+1>OpenGLtestleri.vcxproj -> C:\Users\Giray\Documents\Visual Studio 2022\Projects\OpenGLtestleri\Debug\OpenGLtestleri.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 00:10 and took 00,890 seconds ==========
